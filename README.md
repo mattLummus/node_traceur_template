@@ -1,11 +1,1 @@
-Server Template
-===============
-
-- Node.js
-- Express
-- MongoDB
-- Traceur
-- Jade
-- Less
-
-itnerary day planner using nashville.gov and yelp api data
+Node.js template with Traceur compilation for ES6
